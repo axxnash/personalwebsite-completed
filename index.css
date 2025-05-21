@@ -1,4 +1,4 @@
-/* General Styles */
+
 body {
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
@@ -9,6 +9,7 @@ body {
     box-sizing: border-box;
     transition: background-color 0.3s ease;
 }
+
 
 h1 {
     text-align: center;
@@ -102,10 +103,10 @@ h2 {
 }
 
 p {
-    max-width: 800px;
+    max-width: 1500px;
     margin: 20px auto;
     font-size: 18px;
-    text-align: center;
+    text-align: justify;
     line-height: 1.7;
     color: #dcdcdc; /* Lighter gray for paragraph text */
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2); /* Soft shadow for text */
@@ -190,4 +191,10 @@ button:hover {
     button {
         padding: 10px 20px;
     }
+
+    
 }
+
+
+
+
